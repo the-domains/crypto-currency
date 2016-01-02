@@ -1,0 +1,28 @@
+name: crypto-currency
+favicon: null
+layout_spectrum: 0.8477044044993818
+typography_spectrum: 0.141618994763121
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.000549037242308259
+  lightness: 0.7983355992473662
+  saturation: 0.785293139051646
+  rhythmicContrast: 0.613330903230235
+purpose: []
